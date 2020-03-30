@@ -1,0 +1,19 @@
+{
+  "name": "publish-flow-3",
+  "version": "1.0.0",
+  "description": "TEsting publish flows to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gofydo/publish-flow.git"
+  },
+  "author": "Fyodor Wolf",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gofydo/publish-flow/issues"
+  },
+  "homepage": "https://github.com/gofydo/publish-flow#readme"
+}
